@@ -11,7 +11,7 @@ Repositorio del proyecto para la asignatura optativa Sistemas de Recomendación 
  <tr>
     <td align="center"><img src="#" alt="integrante 1" width="100"></td>
     <td align="center"><img src="#" alt="integrante 2" width="100"></td>
-    <td align="center"><img src="# alt="integrante 3" width="100"></td>
+    <td align="center"><img src="#" alt="integrante 3" width="100"></td>
   </tr>
  <tr>
     <td align="center">Mau</td>

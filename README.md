@@ -4,7 +4,7 @@ Repositorio del proyecto para la asignatura optativa Sistemas de Recomendación 
 ### Integrantes del equipo
 - **Mauricio Iván May Pech**
 - **Emir Andrés Mena Sunza**
-- **Adrían Fonseca Loria**
+- **Adrian Fonseca Loría**
 
 
 <table border="0">

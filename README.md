@@ -14,7 +14,7 @@ Repositorio del proyecto para la asignatura optativa Sistemas de Recomendación 
     <td align="center"><img src="./Integrantes/Adrian.jpeg" alt="integrante 3" width="100"></td>
   </tr>
  <tr>
-    <td align="center">Mau</td>
+    <td align="center">Mauricio</td>
     <td align="center">Emir</td>
     <td align="center">Adrián</td>
   </tr>
